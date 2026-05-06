@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StoreApp</string>
+
+    <string name="title_home">All Products</string>
+    <string name="title_bookmark">Bookmark Product</string>
+
+    <string name="btn_edit">Edit Product</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="hint_image_url">Image URL</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_price">Price ($)</string>
+    <string name="hint_description">Description</string>
+
+    <string name="toast_add_bookmark">Added to Bookmarks</string>
+    <string name="toast_remove_bookmark">Removed from Bookmarks</string>
+</resources>
